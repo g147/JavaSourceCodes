@@ -11,6 +11,6 @@ public class TenGreenBottles{
             System.out.println(k[i]+" Green Bottles hanging on the wall,");
             System.out.println("And if one green bottle should accidentaly fall,");
             System.out.println("There'll be "+k[i-1]+" Green Bottles hanging on the wall.");
-        }
+        }	
     }
 }
